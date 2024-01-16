@@ -1,0 +1,336 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 138.7rem;
+}.sign-up-2tk {
+  width: 100%;
+  height: 107.7rem;
+  position: relative;
+  overflow: hidden;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/bg-01-1-bg-MQQ.png');
+  background-color: rgba(255, 255, 255, 0.1000000015);
+}
+.sign-up-2tk .rectangle-1-a9a {
+  width: 51.2rem;
+  height: 73.9rem;
+  position: absolute;
+  left: 43.7rem;
+  top: 18.7rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 1.5rem;
+}
+.sign-up-2tk .download-1-UVr {
+  width: 12.4rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 63.1rem;
+  top: 26.6rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.sign-up-2tk .register-CRr {
+  width: 10rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 65.2rem;
+  top: 31.6rem;
+  font-size: 2.6rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.sign-up-2tk .button-g68 {
+  width: 16.5rem;
+  height: 6rem;
+  position: absolute;
+  left: 61.1rem;
+  top: 83.1rem;
+  overflow: hidden;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0.5rem 1.5rem rgba(37, 44, 97, 0.150000006), 0 0.2rem 0.4rem rgba(136, 144, 194, 0.200000003);
+  background-color: #0984e3;
+  border-radius: 99.9rem;
+}
+.sign-up-2tk .group-2-uzU {
+  width: 37.6rem;
+  height: 41.8rem;
+  position: absolute;
+  left: 50.5rem;
+  top: 40rem;
+}
+.sign-up-2tk .group-2-uzU .ob-forms-usernae-FHe {
+  width: 37.6rem;
+  height: 7.5024rem;
+  position: absolute;
+  left: 0;
+  top: 0.0976rem;
+  overflow: hidden;
+}
+.sign-up-2tk .group-2-uzU .ob-forms-usernae-FHe .usernae-nYU {
+  width: 6.7rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 1.4rem;
+  font-weight: 300;
+  line-height: 2;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.sign-up-2tk .group-2-uzU .ob-forms-usernae-FHe .frame-eKn {
+  box-sizing: border-box;
+  padding: 1rem 1.5rem;
+  width: 37.6rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 0;
+  top: 2.7024rem;
+  overflow: hidden;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 2;
+  color: #a1a1a1;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #c2c2c2;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+}
+.sign-up-2tk .group-2-uzU .ob-forms-email-JfE {
+  width: 37.6rem;
+  height: 7.5rem;
+  position: absolute;
+  left: 0;
+  top: 8.3rem;
+  overflow: hidden;
+}
+.sign-up-2tk .group-2-uzU .ob-forms-email-JfE .email-2r8 {
+  width: 3.5rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 1.4rem;
+  font-weight: 300;
+  line-height: 2;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.sign-up-2tk .group-2-uzU .ob-forms-email-JfE .frame-ZLG {
+  box-sizing: border-box;
+  padding: 1rem 1.5rem;
+  width: 37.6rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 0;
+  top: 2.7rem;
+  overflow: hidden;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 2;
+  color: #a1a1a1;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #9f9f9f;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+}
+.sign-up-2tk .group-2-uzU .ob-forms-role-Qbn {
+  width: 37.6rem;
+  height: 7.5rem;
+  position: absolute;
+  left: 0;
+  top: 16.7rem;
+  overflow: hidden;
+}
+.sign-up-2tk .group-2-uzU .ob-forms-role-Qbn .role-8Xn {
+  width: 2.9rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 1.4rem;
+  font-weight: 300;
+  line-height: 2;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.sign-up-2tk .group-2-uzU .ob-forms-role-Qbn .frame-Dp8 {
+  box-sizing: border-box;
+  padding: 1rem 1.5rem;
+  width: 37.6rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 0;
+  top: 2.7rem;
+  overflow: hidden;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 2;
+  color: #a1a1a1;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #9f9f9f;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+}
+.sign-up-2tk .group-2-uzU .ob-forms-password-W2Y {
+  width: 37.6rem;
+  height: 7.5rem;
+  position: absolute;
+  left: 0;
+  top: 25.1rem;
+  overflow: hidden;
+}
+.sign-up-2tk .group-2-uzU .ob-forms-password-W2Y .password-ePe {
+  width: 6.4rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 1.4rem;
+  font-weight: 300;
+  line-height: 2;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.sign-up-2tk .group-2-uzU .ob-forms-password-W2Y .frame-9LQ {
+  box-sizing: border-box;
+  padding: 1rem 1.5rem;
+  width: 37.6rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 0;
+  top: 2.7rem;
+  overflow: hidden;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 2;
+  color: #a1a1a1;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #9f9f9f;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+}
+.sign-up-2tk .group-2-uzU .ob-forms-confirm-password-dFa {
+  width: 37.6rem;
+  height: 7.5rem;
+  position: absolute;
+  left: 0;
+  top: 33.5rem;
+  overflow: hidden;
+}
+.sign-up-2tk .group-2-uzU .ob-forms-confirm-password-dFa .confirm-password-k5J {
+  width: 12rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 1.4rem;
+  font-weight: 300;
+  line-height: 2;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.sign-up-2tk .group-2-uzU .ob-forms-confirm-password-dFa .frame-57a {
+  box-sizing: border-box;
+  padding: 1rem 1.5rem;
+  width: 37.6rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 0;
+  top: 2.7rem;
+  overflow: hidden;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 2;
+  color: #a1a1a1;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #9f9f9f;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+}
+.sign-up-2tk .group-2-uzU .group-1-v8C {
+  width: 2.3rem;
+  height: 35rem;
+  position: absolute;
+  left: 33.9rem;
+  top: 4.5rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.sign-up-2tk .group-2-uzU .group-1-v8C .vector-Eua {
+  margin: 0rem 0rem 6.4rem 0.3rem;
+  width: 1.6rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.sign-up-2tk .group-2-uzU .group-1-v8C .vector-Lxc {
+  margin: 0rem 0rem 7.5rem 0.3rem;
+  width: 2rem;
+  height: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.sign-up-2tk .group-2-uzU .group-1-v8C .vector-tDS {
+  margin: 0rem 0.5rem 6.558rem 0rem;
+  width: 1.2rem;
+  height: 0.742rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.sign-up-2tk .group-2-uzU .group-1-v8C .vector-cv8 {
+  margin: 0rem 0.3rem 6.4rem 0rem;
+  width: 1.6rem;
+  height: 2.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.sign-up-2tk .group-2-uzU .group-1-v8C .vector-vA8 {
+  margin-right: 0.7rem;
+  width: 1.6rem;
+  height: 2.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}

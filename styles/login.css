@@ -1,0 +1,233 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 138.7rem;
+}.login-6GU {
+  width: 100%;
+  height: 107.7rem;
+  position: relative;
+  overflow: hidden;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/bg-01-1-bg.png');
+  background-color: rgba(255, 255, 255, 0.1000000015);
+}
+.login-6GU .rectangle-1-3b2 {
+  width: 51.2rem;
+  height: 58.1rem;
+  position: absolute;
+  left: 43.7rem;
+  top: 20.1rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 1.5rem;
+}
+.login-6GU .sign-up-ExL {
+  width: 5.7rem;
+  height: 1.4rem;
+  position: absolute;
+  left: 66.5rem;
+  top: 68.2rem;
+  font-size: 1.4rem;
+  font-weight: 300;
+  line-height: 1;
+  color: #0984e3;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.login-6GU .or-sign-up-using-VNU {
+  width: 10.6rem;
+  height: 1.4rem;
+  position: absolute;
+  left: 64rem;
+  top: 64.9rem;
+  font-size: 1.4rem;
+  font-weight: 300;
+  line-height: 1;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.login-6GU .download-1-9xp {
+  width: 9.9rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 64.4rem;
+  top: 27.6rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.login-6GU .login-HJL {
+  width: 6.7rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 66rem;
+  top: 31.6rem;
+  font-size: 2.6rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.login-6GU .rectangle-2-ygx {
+  width: 19.3rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 59.7rem;
+  top: 58.1rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #0984e3;
+  border-radius: 4rem;
+}
+.login-6GU .login-tJ8 {
+  width: 3.7rem;
+  height: 1.4rem;
+  position: absolute;
+  left: 67.4rem;
+  top: 59.7rem;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.login-6GU .forgot-password-NUC {
+  width: 10.2rem;
+  height: 1.5rem;
+  position: absolute;
+  left: 79rem;
+  top: 54rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #8c8c8c;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.login-6GU .group-1-468 {
+  width: 37.9rem;
+  height: 19.2rem;
+  position: absolute;
+  left: 50.4rem;
+  top: 36.9rem;
+}
+.login-6GU .group-1-468 .ob-forms-usernae-aaG {
+  width: 37.9rem;
+  height: 7.4821rem;
+  position: absolute;
+  left: 0;
+  top: 0.1179rem;
+  overflow: hidden;
+}
+.login-6GU .group-1-468 .ob-forms-usernae-aaG .usernae-h96 {
+  width: 6.7rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 1.4rem;
+  font-weight: 300;
+  line-height: 2;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.login-6GU .group-1-468 .ob-forms-usernae-aaG .frame-RKz {
+  box-sizing: border-box;
+  padding: 1rem 1.5rem;
+  width: 37.9rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 0;
+  top: 2.6821rem;
+  overflow: hidden;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 2;
+  color: #a1a1a1;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #9f9f9f;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+}
+.login-6GU .group-1-468 .ob-forms-password-q8p {
+  width: 37.9rem;
+  height: 7.4786rem;
+  position: absolute;
+  left: 0;
+  top: 9.1214rem;
+  overflow: hidden;
+}
+.login-6GU .group-1-468 .ob-forms-password-q8p .password-wBr {
+  width: 6.4rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 1.4rem;
+  font-weight: 300;
+  line-height: 2;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.login-6GU .group-1-468 .ob-forms-password-q8p .frame-CNg {
+  box-sizing: border-box;
+  padding: 1rem 1.5rem;
+  width: 37.9rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 0;
+  top: 2.6786rem;
+  overflow: hidden;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 2;
+  color: #a1a1a1;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #9f9f9f;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+}
+.login-6GU .group-1-468 .group-3-3u6 {
+  width: 1.5784rem;
+  height: 10.7554rem;
+  position: absolute;
+  left: 34.7176rem;
+  top: 4.1805rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.login-6GU .group-1-468 .group-3-3u6 .vector-mKJ {
+  margin-bottom: 7.0031rem;
+  width: 1.5784rem;
+  height: 1.6226rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.login-6GU .group-1-468 .group-3-3u6 .vector-6cU {
+  width: 1.5784rem;
+  height: 2.1297rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
